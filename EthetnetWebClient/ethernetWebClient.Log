@@ -1,0 +1,24 @@
+DHCP-based Web client
+connecting...
+connected
+HTTP/1.1 302 Found
+Location: http://www.google.co.kr/search?q=arduino&gws_rd=cr&dcr=0&ei=jgERWqzIL4un8QWuwp2gBQ
+Cache-Control: private
+Content-Type: text/html; charset=UTF-8
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Date: Sun, 19 Nov 2017 03:59:10 GMT
+Server: gws
+Content-Length: 291
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: NID=117=HcWYmV-dYMcAl3llU_VnCWb6tivsIdFJb-mTiz9TNiygZ38jLXex3KZsnFsWCEIWiwflpfY4GKcm77YZZ6ilVxPoNPUhxe1wRDf2ahXkjTgdAu8C2yA7NC7es5pR9_ru; expires=Mon, 21-May-2018 03:59:10 GMT; path=/; domain=.google.com; HttpOnly
+Connection: close
+
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>302 Moved</TITLE></HEAD><BODY>
+<H1>302 Moved</H1>
+The document has moved
+<A HREF="http://www.google.co.kr/search?q=arduino&amp;gws_rd=cr&amp;dcr=0&amp;ei=jgERWqzIL4un8QWuwp2gBQ">here</A>.
+</BODY></HTML>
+
+disconnecting.
